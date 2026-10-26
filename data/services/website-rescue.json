@@ -1,0 +1,38 @@
+{
+    "track": "individuals",
+    "slug": "website-rescue",
+    "status": "active",
+    "headline": "My WordPress site is hacked or broken",
+    "steps": [
+        "Look at what is wrong: scan the site for malware and check for errors.",
+        "Take a full backup before changing anything.",
+        "Clean the infected files or fix what is broken.",
+        "Update the site and change the passwords so it stays fixed.",
+        "Tell you in plain words what happened and what was done."
+    ],
+    "packages": [
+        {"name": "Emergency Fix / Malware Cleanup", "price": "$150", "detail": "One site. Scan, cleanup, security update and a plain-language summary."},
+        {"name": "Speed and Tracking Fix", "price": "$120", "detail": "Make a slow site faster and fix broken analytics or conversion tracking."},
+        {"name": "Migration or Plugin Rebuild", "price": "From $300", "detail": "Move a site to a new host or theme, or rebuild a plugin. Quoted after a quick look."}
+    ],
+    "proof": [],
+    "contact": {"label": "Tell me what is wrong", "response_time": "24 hours"},
+    "tools": [],
+    "listings": {
+        "upwork": {
+            "title": "WordPress emergency fix: hacked, broken or slow site",
+            "description": "Your WordPress site is hacked, broken or slow. I scan it, back it up, clean or fix it, update and secure it, and explain in plain words what happened. Fixed price per package.",
+            "price": "$150"
+        },
+        "freelancer": {
+            "title": "Fix a hacked or broken WordPress site",
+            "description": "I find what is wrong with your WordPress site, back it up, remove malware or repair the problem, secure it, and tell you what was done.",
+            "price": "$150"
+        },
+        "other": {
+            "title": "WordPress rescue: malware cleanup and fixes",
+            "description": "Malware cleanup, speed and tracking fixes, and migrations for individual site owners. Fixed prices.",
+            "price": "$150"
+        }
+    }
+}

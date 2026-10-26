@@ -1,0 +1,19 @@
+{
+    "name": "monk24215/hire-wiredhowse",
+    "require-dev": {
+        "phpunit/phpunit": "^11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hire\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Hire\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=8.2"
+    }
+}
